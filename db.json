@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "name": "Iphone",
+      "description": "one of the best phone",
+      "price": "1200",
+      "image": "https://resizer.mail.ru/p/051eee03-607b-5dd1-b9d6-776116b4d555/AQAKkze0kFXzMP68FR2f-iyg-GFyzRxXd0fMQEURfRWMJ75-BQ34lzHzucajY0X2qmPpn3zCqgCx8ZhHho6k3_h2BFM.jpg",
+      "type": "phones",
+      "id": 2
+    },
+    {
+      "name": "Samsung galaxy z-flip",
+      "description": "best z-flip ever",
+      "price": 1300,
+      "image": "https://static.insales-cdn.com/r/T0sC5IBPasI/rs:fit:1000:1000:1/plain/images/products/1/6426/636631322/Z_Flip_4_8_256_5G_Purple.jpeg",
+      "type": "Phone",
+      "id": 3
+    },
+    {
+      "name": "Samsung galaxy fold",
+      "description": "best phone of the year",
+      "price": "1200",
+      "image": "https://softech.kg/image/cache/fd098e00ede14a91d5276bfbecc09e17.jpg",
+      "type": "phone",
+      "id": 4
+    },
+    {
+      "name": "pixel 7",
+      "description": "asdakldsvkdfjv",
+      "price": "560",
+      "image": "https://softech.kg/image/cache/09924964d55e3390dbf01f1327f5df36.jpg",
+      "type": "Phone ",
+      "id": 5
+    }
+  ]
+}
